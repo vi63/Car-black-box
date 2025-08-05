@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/A045/MPLABXProjects/CBOX.X/keypad.c</file>
+            <file>file:/C:/Users/A045/MPLABXProjects/CBOX.X/clear_log.c</file>
+            <file>file:/C:/Users/A045/MPLABXProjects/CBOX.X/i2c.c</file>
+            <file>file:/C:/Users/A045/MPLABXProjects/CBOX.X/ds1307.c</file>
+            <file>file:/C:/Users/A045/MPLABXProjects/CBOX.X/set_time.c</file>
+            <file>file:/C:/Users/A045/MPLABXProjects/CBOX.X/ext_eeprom.c</file>
+            <file>file:/C:/Users/A045/MPLABXProjects/CBOX.X/download.c</file>
+            <file>file:/C:/Users/A045/MPLABXProjects/CBOX.X/save_time.c</file>
+            <file>file:/C:/Users/A045/MPLABXProjects/CBOX.X/view_log.c</file>
+            <file>file:/C:/Users/A045/MPLABXProjects/CBOX.X/setpassword.c</file>
+            <file>file:/C:/Users/A045/MPLABXProjects/CBOX.X/change_pwd.c</file>
+            <file>file:/C:/Users/A045/MPLABXProjects/CBOX.X/dashboard.c</file>
+            <file>file:/C:/Users/A045/MPLABXProjects/CBOX.X/uart.c</file>
+            <file>file:/C:/Users/A045/MPLABXProjects/CBOX.X/menu.c</file>
+            <file>file:/C:/Users/A045/MPLABXProjects/CBOX.X/main.c</file>
+        </group>
+    </open-files>
+</project-private>
